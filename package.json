@@ -1,0 +1,8 @@
+{
+  "name": "tls-cipher-list-policy",
+  "version": "0.0.1",
+  "description": "Enforce use of the built-in TLS Cipher List",
+  "main": "index.js",
+  "author": "James M Snell <jasnell@gmail.com>",
+  "license": "MIT"
+}
